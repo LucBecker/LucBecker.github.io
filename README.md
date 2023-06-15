@@ -16,7 +16,9 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
+<img width="921" alt="home" src="https://github.com/LucBecker/LucBecker.github.io/assets/108952468/7a2e0fec-a359-4356-b93e-8dd0907cb1a6">
+
 #
-#### Esse é um sistema completo com Spring Boot 2.x para desenvolver uma API REST e posteriormente criamos um sistema Frontend com o framework Angular 16 para consumir nossa API. 
+#### Esse é um sistema completo com Spring Boot 2.x para desenvolver uma API REST e um sistema Frontend com o framework Angular 16 para consumir nossa API. 
 Link no Github Pages: https://lucbecker.github.io/
 
